@@ -1,0 +1,25 @@
+a {text-decoration: none;}
+
+p, span {
+    background-color: salmon;
+}
+
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 80px;
+    color: red;
+
+   }
+
+button {
+    background-color: #0E49B5;
+    border: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff;
+
+    box-shadow: ;
+
+}
